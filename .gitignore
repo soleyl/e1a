@@ -28,6 +28,12 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+/.idea
+
 # Thumbnails
 ._*
 

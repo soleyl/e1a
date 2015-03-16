@@ -1,0 +1,19 @@
+{
+  "name": "tvInterface",
+  "version": "1.0.0",
+  "description": "simple test interface for e1a_tv",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Soley Ludviksdottir",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.2",
+    "mocha": "^2.2.1"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}
